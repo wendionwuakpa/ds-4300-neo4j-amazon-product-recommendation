@@ -1,1 +1,1 @@
-# ds-4300-neo4j-song-recommendation
+# neo4j-song-recommendation

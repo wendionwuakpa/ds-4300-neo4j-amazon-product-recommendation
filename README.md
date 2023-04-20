@@ -35,9 +35,18 @@ To run the project, follow these steps:
    
 5. Follow the prompts in the command line interface to input user information and get product recommendations.
 
+## Potential User Use-case Story
+Imagine you are on Amazon, looking for a perfect product but you just can't seem to find the right one. It can be overwhelming, right? That's where this program comes in! It's like having your own personal shopping assistant that recommends products tailored to your needs and preferences.
+
+To get started, the program prompts you to select a category for the type of product you're interested in. No need to spend hours scrolling through pages of irrelevant products anymore! The program then filters the products within that category based on the maximum price you're willing to pay.
+
+But wait, it gets even better! The program then presents you with five random products that fit your selected category and price range. And the best part? You get to choose your two favorite products out of the five presented. Your favorites are then stored in a list and used to generate personalized product recommendations just for you.
+
+No more endless searching for the perfect product. With this program, you'll have access to a selection of products that meet your specific needs and preferences. Say goodbye to buyer's remorse and hello to a personalized shopping experience!
+
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the NEU.
 
 ## Contact
 

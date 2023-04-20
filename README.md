@@ -1,1 +1,1 @@
-# neo4j-song-recommendation
+# neo4j-amazon-product-recommendation

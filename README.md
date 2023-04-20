@@ -38,7 +38,7 @@ To run the project, follow these steps:
 ## Potential User Use-case Story
 Picture this: you're sitting at your computer, scrolling through Amazon's vast array of products, feeling more overwhelmed by the minute. You've been searching for the perfect item for what feels like hours, and you're about ready to give up.
 
-But just as you're about to throw in the towel, you stumble upon a program that promises to be your own personal shopping assistant. Finally, some help!
+But just as you're about to throw in the towel, you stumble upon a program that promises to be your own personal product recommender aka shopping assistant. Finally, some help!
 
 As you start to navigate through the program, you can't help but marvel at the sheer size of Amazon's consumer base. After all, it's the largest shopping platform on the internet, with over 40% of all online purchases being made through Amazon.com.
 

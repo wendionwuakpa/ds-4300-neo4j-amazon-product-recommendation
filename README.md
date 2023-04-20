@@ -41,8 +41,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For questions or support, please contact the project maintainer at [maintainer@example.com](mailto:maintainer@example.com).
+For questions or support, please contact any of the contributors
 
 ## Acknowledgments
 
-Special thanks to Professor Jane Smith for guidance and support throughout the project.
+Special thanks to Professor John Rachlin for guidance and support throughout the project.

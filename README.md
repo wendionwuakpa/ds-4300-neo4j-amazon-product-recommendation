@@ -36,13 +36,19 @@ To run the project, follow these steps:
 5. Follow the prompts in the command line interface to input user information and get product recommendations.
 
 ## Potential User Use-case Story
-Imagine you are on Amazon, looking for a perfect product but you just can't seem to find the right one. It can be overwhelming, right? That's where this program comes in! It's like having your own personal shopping assistant that recommends products tailored to your needs and preferences.
+Picture this: you're sitting at your computer, scrolling through Amazon's vast array of products, feeling more overwhelmed by the minute. You've been searching for the perfect item for what feels like hours, and you're about ready to give up.
 
-To get started, the program prompts you to select a category for the type of product you're interested in. No need to spend hours scrolling through pages of irrelevant products anymore! The program then filters the products within that category based on the maximum price you're willing to pay.
+But just as you're about to throw in the towel, you stumble upon a program that promises to be your own personal shopping assistant. Finally, some help!
 
-But wait, it gets even better! The program then presents you with five random products that fit your selected category and price range. And the best part? You get to choose your two favorite products out of the five presented. Your favorites are then stored in a list and used to generate personalized product recommendations just for you.
+As you start to navigate through the program, you can't help but marvel at the sheer size of Amazon's consumer base. After all, it's the largest shopping platform on the internet, with over 40% of all online purchases being made through Amazon.com.
 
-No more endless searching for the perfect product. With this program, you'll have access to a selection of products that meet your specific needs and preferences. Say goodbye to buyer's remorse and hello to a personalized shopping experience!
+But then you learn the shocking truth - Amazon's recommendation algorithm isn't designed around the consumer. In fact, it favors profit over the optimal choice for the shopper. It's no wonder you've been struggling to find the perfect product!
+
+Thankfully, this program is different. It puts you - the consumer - first, by recommending products tailored to your needs and preferences. No more endless scrolling through irrelevant items. With this program, you can select a category and filter the products based on your budget.
+
+But that's not all. The program takes it a step further by presenting you with five random products that fit your criteria. You get to choose your two favorites, and those choices are then used to generate personalized recommendations just for you.
+
+It's like having your own personal shopping concierge, but without the expensive price tag. No more buyer's remorse or settling for subpar products. With this program, you'll finally have a shopping experience that puts your needs first.
 
 ## License
 
